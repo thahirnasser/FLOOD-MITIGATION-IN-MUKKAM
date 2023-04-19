@@ -36,8 +36,7 @@ IDW Interpolated DEM - IDW interpolation is a spatial Interpolation, when the va
 ![profile tool interpolated(vertical)](https://user-images.githubusercontent.com/90825034/233177027-41e65279-4848-4850-a0c7-ef1ffcc37153.png)
 Profile ofslope(%) from the DEM[Tabular Format]
 ![20230131074455-96007-profile](https://user-images.githubusercontent.com/90825034/233177294-7678bcc2-4ec9-483a-b7d0-3b0c6c26b284.png)
-Elevation profile [unit=metric] The elevation takes a specific amount of distance. From the given
-graph at a distance of 30-40km elevation is the highest.
+Elevation profile [unit=metric]the elevation takes a specific amount of distance. From the given graph at a distance of 30-40km elevation is the highest.
 ![Marine-geo orgGMRT(chennamangallor-blender)](https://user-images.githubusercontent.com/90825034/233177427-0e080f7c-d96f-4472-9d3d-dbceb22cd633.png)
 BLENDER-GIS-3D model(BLENDER-GIS) of a parcel area (chennamangallur OSM) help analyze the terrain and study the relief feature by Open-topography SRTM 90M
 
