@@ -39,7 +39,6 @@ Profile ofslope(%) from the DEM[Tabular Format]
 Elevation profile [unit=metric] The elevation takes a specific amount of distance. From the given
 graph at a distance of 30-40km elevation is the highest.
 ![Marine-geo orgGMRT(chennamangallor-blender)](https://user-images.githubusercontent.com/90825034/233177427-0e080f7c-d96f-4472-9d3d-dbceb22cd633.png)
-BLENDER-GIS-3D model(BLENDER-GIS) of a parcel area (chennamangallur OSM) help analyze the
-terrain and study the relief feature by Open-topography SRTM 90M
+BLENDER-GIS-3D model(BLENDER-GIS) of a parcel area (chennamangallur OSM) help analyze the terrain and study the relief feature by Open-topography SRTM 90M
 
 
