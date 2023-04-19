@@ -7,6 +7,7 @@ and reliable way to detect flooded regions.
 Region defined here is kozhikode which is taken as the region of intrest(geometry)
 
 ![b9ae1fea-6725-452e-b9c9-0905a7b4b9ea](https://user-images.githubusercontent.com/90825034/233174602-e8d3a01c-6af8-49bc-89dd-a4ad56a95eb6.jpg)
+
 Flood distribution presence
 
 BEFORE FLOOD
