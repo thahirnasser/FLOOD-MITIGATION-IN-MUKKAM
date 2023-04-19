@@ -2,18 +2,24 @@
 Through collecting SENTINEL-1 SARGRD(synthetic aperture radar ground range).Mapping of flood area by comparing images taken before and after a flood event 
 Flood events cause heavy rainfall hence cloud cover would be a disturbance whencapturing optical images SAR images is not affected by weather and provides a robust
 and reliable way to detect flooded regions.
+
 ![Flood kozhikode](https://user-images.githubusercontent.com/90825034/233173634-17258b17-502a-4d09-b948-4811916ccf10.png)
 Region defined here is kozhikode which is taken as the region of intrest(geometry)
+
 ![b9ae1fea-6725-452e-b9c9-0905a7b4b9ea](https://user-images.githubusercontent.com/90825034/233174602-e8d3a01c-6af8-49bc-89dd-a4ad56a95eb6.jpg)
 Flood distribution presence
 
 BEFORE FLOOD
+
 ![3ca06e46-a034-471b-92bb-ae230e7eadc8](https://user-images.githubusercontent.com/90825034/233175834-4a584d7c-7145-407c-96b9-90beb027f514.jpg)
+
 ![b01914fe-ab2d-44ff-b98e-c5b737219639](https://user-images.githubusercontent.com/90825034/233175860-4b46a452-52ed-4cfd-8693-226b49772fee.jpg)
 
 
 AFTER FLOOD
+
 ![e677b869-cbc0-453e-86ee-4430e3e261fa](https://user-images.githubusercontent.com/90825034/233175738-85312e9b-6142-48bd-b19b-6aaca2900816.jpg)
+
 ![292ac2d0-2683-4399-9a05-4401e9eb59ad](https://user-images.githubusercontent.com/90825034/233175766-956bd1e3-e7a8-4dcd-9a94-0cca50c58608.jpg)
 
 ![ELEVATION gps OF MUKKAM](https://user-images.githubusercontent.com/90825034/233176011-87611e32-08f9-41c0-93e1-669c3886b984.png)
