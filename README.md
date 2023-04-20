@@ -1,4 +1,4 @@
-# FLOOD-MITIGATION-IN-MUKKAM
+# FLOOD-MITIGATION-IN-MUKKAM[OUTPUT]
 Through collecting SENTINEL-1 SARGRD(synthetic aperture radar ground range).Mapping of flood area by comparing images taken before and after a flood event 
 Flood events cause heavy rainfall hence cloud cover would be a disturbance whencapturing optical images SAR images is not affected by weather and provides a robust
 and reliable way to detect flooded regions.
