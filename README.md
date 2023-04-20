@@ -30,7 +30,7 @@ Detail attribute of cloud points (GPS Visualizer)[.txt]
 ![GPS- chennamangallor](https://user-images.githubusercontent.com/90825034/233176398-9fa02a53-2557-489e-b216-793234a92888.png)
  QGIS- Imported plaintext [LAT/LON] is read
 ![IDW interpolation-DEM(CHENNAMANGULLAR)](https://user-images.githubusercontent.com/90825034/233176679-d137a817-3c31-4b2d-b82e-0fb58b30b704.png)
-IDW Interpolated DEM - IDW interpolation is a spatial Interpolation, when the value is determined from a location that do not have a specific value but have sample points nearby. Try to interpolate value from known point. Weightages specified frompoint which is nearto the unknown value being determined.
+IDW Interpolated DEM - IDW interpolation is a spatial Interpolation, when the value is determined from a location that do not have a specific value but have sample points nearby. Try to interpolate value from known point. Weightages specified from point which is near to the unknown value being determined.
 ![Interpolated dsm profile tool (horizontal)png](https://user-images.githubusercontent.com/90825034/233176990-5bd0109a-19b4-44c7-96e9-f93a6ead8300.png)
 .Profile of slope(%) from the DEM
 ![profile tool interpolated(vertical)](https://user-images.githubusercontent.com/90825034/233177027-41e65279-4848-4850-a0c7-ef1ffcc37153.png)
